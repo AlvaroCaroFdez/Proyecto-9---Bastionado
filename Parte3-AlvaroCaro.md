@@ -1,4 +1,4 @@
-# **Parte 3: Análisis de Certificados SSL/TLS**
+# **Parte 3 - Análisis de Certificados SSL/TLS**
 
 ## **Certificados válidos**
 
