@@ -37,5 +37,3 @@ En esta fase, se analiza un certificado válido mediante herramientas como SSL L
 1. Generar y utilizar certificados digitales para establecer conexiones seguras con servidores remotos.
 2. Configurar servidores web para servir páginas mediante HTTPS utilizando certificados digitales.
 3. Analizar y comparar certificados válidos e inválidos, identificando las razones detrás de su validez o invalidez.
-
----
